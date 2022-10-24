@@ -145,29 +145,6 @@
       ],
       "status": "Solicitado",
       "id": 6
-    },
-    {
-      "nome": "Cliente10",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Tomate"
-      ],
-      "status": "Solicitado",
-      "id": 7
-    },
-    {
-      "nome": "Paulo Matias",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 8
     }
   ]
 }
